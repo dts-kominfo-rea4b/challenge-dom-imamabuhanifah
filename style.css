@@ -1,0 +1,47 @@
+#app {
+    justify-content: center;
+    background-color: white;
+    border-radius: 30px;
+    padding: 20px;
+    margin: auto;
+    width: 400px;
+    min-height: 400px;
+}
+
+body {
+    background-color: #7acaec;
+    margin-top: 55px;
+}
+
+#todo-title{
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: aqua;
+    max-width: max-content;
+    margin:0 auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+#input {
+    display: block;
+    text-align: center;
+    margin-left: 50px;
+    border: none;
+    border-radius: 0;
+    width: 75%;
+    padding: 10px;
+}
+
+#todo-input {
+    height: 20px;
+}
+
+#output {
+    margin-left: 50px;
+}
